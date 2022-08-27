@@ -1,0 +1,9 @@
+requests
+pandas
+beautifulsoup4
+datetime
+logger
+pytube
+gspread
+google-api-python-client
+urllib
